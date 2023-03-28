@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rizwan anime</title>
+    <style>
+         body{ 
+             background-color: black;
+           
+        } 
+        div{
+            background-color: black;
+            border: 2px solid red;
+           margin-left: 20px;
+        }
+    
+        h1{
+            color:white ;
+        }
+        h4{
+           
+             color: skyblue;
+            font-size: 25px;
+            display: inline;
+            margin-left: 25px;
+        }
+        h2{
+            color:white;
+        }
+        a{
+            text-decoration: none;
+        }
+        #search{
+            background-color: black;
+            border: 2px white solid;
+            border-radius: 30px;
+            height: 50px;
+            color: white;
+        }
+       
+       
+        h2{
+            border: 2px skyblue solid;
+            color: skyblue;
+        }
+        img{
+            border: 2px solid red;
+            border-radius: 3px;
+        }
+        td{
+            color:white;
+        }
+      ul{
+        
+    
+       
+        color: black;
+   
+        font-size: 25px ;
+        column-count: 3;
+      }
+           
+    </style>
+</head>
+<body>
+    <div>
+    <h1 ><center>Entertainment</center></h1>
+    </div>
+    <br>
+    <center><input type="search" name="search here" id="search" size="100px"></center> 
+    <br>
+    <div>
+        <h4><a href="https://luciferdonghua.in/#">home</a></h4>
+        <h4><a href="https://luciferdonghua.in/network/tencent/"> Tencent anime</a></h4>
+        <h4><a href="https://chineseanime.live/">All anime info</a></h4>
+        <h4><a href="https://luciferdonghua.in/tag/japanese-anime/">Japnese Anime</a></h4>
+        <h4><a href="https://koredramaz.com/">K-Drama</a></h4>
+        <h4><a href="https://koredreamer.com/">All K-drama info</a></h4>
+        <h4><a href="https://luciferdonghua.in/az-lists/">A_Z Lists</a></h4>
+        <h4><a href="https://luciferdonghua.in/bookmarks/">bookmarks</a></h4>
+    </div>
+    <br>
+    <br>
+    <h2><center>Anime</center></h2>
+    <table>
+        <td class="sl"><a href="soul land.html"><img src="soul land.jpg" alt="Error in loading"><br><center>soul soul-land-s-2</center></a></td>
+        <td class="btth"><a href="btth.html"><img src="btth.jpg" alt="Erron in losding"><br><center>Battal Thorough The Haven</center></a></td>
+        <td class="tos"><a href="tos.html"><img src="thron of seal.jpg" alt="Erron in losding"><br><center>thron of seal</center></a></td>
+        <td class="Mu"><a href="Mu.html"><img src="martialunivers.jpg" alt="Erron in losding"><br><center>martial Univers</center></a></td>
+        <td class="wow"><a href=wow.html"><img src="wow.jpg" alt="Erron in loading"><br><center>Wings of the World</center></a></td>
+        <td class="wgj"><a href=wgj.html"><img src="Wu-Geng-Ji.jpg" alt="Erron in loading"><br><center>Wu gang Ji</center></a></td>
+        <td class="pr"><a href=pr.html"><img src="pr.jpg" alt="Erron in loading"><br><center>Purpole Rivere</center></a></td>        
+        <td class="pw"><a href=pw.html"><img src="pw.jpg" alt="Erron in loading"><br><center>Perfect World</center></a></td>        
+    </table>
+<br>
+<br>
+        <h2><center>K-Drama</center></h2>
+    <table>
+        <td><img src="cloy.jpg" alt="Error inLoading"><center>Crash Landing On You</center></td>
+        <td><img src="her-bucket-list-korean-drama.jpg" alt="Error inLoading"><center>Her-Bucket-List</center></td>
+        <td><img src="ffmw.jpg" alt="Error inLoading"><center>Fight for My Way</center></td>
+        <td><img src="The_King_Eternal_Monarch.jpg" alt="Error inLoading"><center>The_King_Eternal_Monarch</center></td>
+        <td><img src="gob.jpg" alt="Error inLoading"><center>Goblin</center></td>
+        <td><img src="aaa.jpg" alt="Error inLoading"><center>IT's Ok Not To Be Ok</center></td>
+        <td><img src="su.jpg" alt="Error in Loading"><center>Start-Up</center></td>
+</table>
+
+<br>
+<center><h2>Genres</h2></center>
+<center>
+<ul type="square">
+    
+   <li> <h4>Action</h4></li>
+<li><h4>Adventure</h4></li>
+<li>  <h4>xComedy</h4></li>
+    <li><h4>Demons</h4></li>
+    <li><h4>Drama</h4></li>
+    <li><h4>Fantasy</h4></li>
+    <li><h4>Game</h4></li>
+    <li><h4>Harem</h4></li>
+    <li><h4>Historical</h4></li>
+    <li><h4>Isekai</h4></li>
+    <li><h4>Isekai</h4></li>
+    <li><h4>Magic</h4></li>
+    <li><h4>Martial Art</h4></li>
+   <li> <h4>Martial ArtsMilitary</h4></li>
+    <li><h4> Over Power</h4></li>
+   <li> <h4>Over Re-Birth</h4></li>
+   <li> <h4>Reincarnation</h4></li>
+   <li> <h4>RomanceSchool</h4></li>
+   <li> <h4>Sci-fi</h4></li>
+   <li> <h4>Super Power</h4></li>
+   <li> <h4>SupernaturalTime </h4></li>
+   <li> <h4>TravelWar</h4></li> 
+</ul>
+</center>
+</body>
+</html>
